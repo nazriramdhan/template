@@ -1,0 +1,15 @@
+# Editor & IDE Config
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System Files (mac OS & Windows)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Environment & Private Keys 
+.env
+*.pem
+*.Key
